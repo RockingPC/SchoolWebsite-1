@@ -1,0 +1,12 @@
+body{
+    background-color:#f4fc00;
+    color:aqua
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#videos iframe {
+    width: 80%;
+}
